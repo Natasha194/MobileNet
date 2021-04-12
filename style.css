@@ -1,0 +1,77 @@
+.headerDiv {
+    background: rgb(255, 255, 255);
+    color: rgb(13, 61, 204);
+} 
+
+.headerDiv img{
+    width: 100px;
+}
+
+.mainDiv {
+    background: rgb(77, 6, 77);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid black;
+    border-radius: 30px;
+
+}
+
+.mainDiv label{
+    color: blanchedalmond;
+    background: black;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 10px white;
+}
+
+#camera, #result {
+    width: 310px;
+    height: 300px;
+    border: 2px solid black;
+    box-shadow: 4px 6px 9px whitesmoke
+}
+
+
+.mainDiv button{
+    font-size: 18px;
+    box-shadow: 5px 7px 10px rgba(5, 5, 88, 0.897);
+}
+
+
+
+
+
+body {
+    font-family: 'Special Elite', cursive;
+}
+
+
+
+
+
+.footerDiv {
+    margin-bottom: 50px;
+}
+
+.footerDiv h4 {
+    background: grey;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 10px 12px 10px rgb(103, 105, 109);
+}
+
+.footerDiv img{
+    width: 70px;
+}
+
+
+.copy_right_footer {
+    position: fixed;
+    color:rgba(0, 0, 0, 0.897);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(31, 161, 161);
+    line-height: 3;
+    text-align: center;
+}
